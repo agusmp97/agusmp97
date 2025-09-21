@@ -7,10 +7,9 @@ Based in Barcelona (Spain), I work as a Backend Software Engineer, creating syst
 ## 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-5FA04E?logo=node.js&logoColor=white&style=flat)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat)
 
 <br>
 
