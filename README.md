@@ -13,7 +13,7 @@ Focused on building backend systems that are reliable, scalable, and built to la
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
-
+<br>
 
 ## 🗄 Databases
 ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?logo=googlecloud&logoColor=white&style=flat)
@@ -21,14 +21,14 @@ Focused on building backend systems that are reliable, scalable, and built to la
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=Redis&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
 
-
+<br>
 
 ## ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
-
+<br>
 
 ## 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat)
@@ -41,7 +41,7 @@ Focused on building backend systems that are reliable, scalable, and built to la
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white&style=flat)
 
-
+<br>
 
 ## 🖥 Operating Systems
 ![GNU Linux](https://img.shields.io/badge/GNU%20Linux-FCC624?logo=Linux&logoColor=black&style=flat)
