@@ -33,7 +33,7 @@ Based in Barcelona (Spain), I work as a Backend Software Engineer, creating syst
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=flat)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=flat)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=GitLab&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=code&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudio&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white&style=flat)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat)
