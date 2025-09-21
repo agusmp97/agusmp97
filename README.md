@@ -39,6 +39,9 @@ Based in Barcelona (Spain), I work as a Backend Software Engineer, creating syst
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=Markdown&logoColor=white&style=flat)
 
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=VS%20Code&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=vscode&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 <br>
 
 ## 🖥 Operating Systems
