@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Agus Martínez
 
-Backend Software Engineer from Barcelona, Spain.
+Backend Software Engineer from Barcelona, Spain.<br>
 Focused on building backend systems that are reliable, scalable, and built to last.
 
 
