@@ -2,7 +2,7 @@
 
 Based in Barcelona (Spain), I work as a Backend Software Engineer, creating systems that are reliable, scalable, and built to last.
 
-
+<br>
 
 ## 💻 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
